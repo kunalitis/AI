@@ -1,1 +1,3 @@
-# AI
+
+The Smart Dream Detector is an innovative AI-based web application that interprets dreams using text input alone. It applies advanced Natural Language Processing and machine learning techniques to decode emotions and sentiments embedded in dream narratives. This system eliminates the need for intrusive sensors, offering a user-friendly and accessible dream analysis experience. With tools like TextBlob and Hugging Face Transformers, it classifies emotions such as joy, fear, sadness, and anger. The system architecture is built on a Flask web interface for seamless interaction. Users gain insights into their subconscious thoughts and emotional well-being. It supports self-awareness, psychological assessment, and educational use. With 95% accuracy and real-time response, it proves to be a powerful non-clinical tool. Future plans include multilingual support and deeper clinical integration.
+Project Members: Prithvi Raj, Daksh Tekwani, and Kunal Yadav.
